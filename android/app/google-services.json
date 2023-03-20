@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996010440851",
+    "project_id": "tunipark-d42f7",
+    "storage_bucket": "tunipark-d42f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996010440851:android:d365c86410d15a7fc83566",
+        "android_client_info": {
+          "package_name": "com.tunipark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996010440851-crt5150asthp7gqonje034cu0ulg30sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunipark",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "996010440851-c3j0gkforld2hrnpllov3q0k80ov1ais.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALFm4xfENhTwPebn_PWoqhR8HKDw6Zbhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996010440851-c3j0gkforld2hrnpllov3q0k80ov1ais.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
